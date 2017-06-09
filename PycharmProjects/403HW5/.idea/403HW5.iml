@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7.13 (~/miniconda2/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="403hw3" />
+    <orderEntry type="module" module-name="403hw2" />
+    <orderEntry type="module" module-name="403hw4" />
+    <orderEntry type="module" module-name="403hw6" />
+    <orderEntry type="module" module-name="403project" />
+    <orderEntry type="module" module-name="LLE" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="test" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

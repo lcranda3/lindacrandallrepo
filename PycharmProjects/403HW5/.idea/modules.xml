@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/403HW5.iml" filepath="$PROJECT_DIR$/.idea/403HW5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../403hw2/.idea/403hw2.iml" filepath="$PROJECT_DIR$/../403hw2/.idea/403hw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../403hw3/.idea/403hw3.iml" filepath="$PROJECT_DIR$/../403hw3/.idea/403hw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../403hw4/.idea/403hw4.iml" filepath="$PROJECT_DIR$/../403hw4/.idea/403hw4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../403hw6/.idea/403hw6.iml" filepath="$PROJECT_DIR$/../403hw6/.idea/403hw6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../403project/.idea/403project.iml" filepath="$PROJECT_DIR$/../403project/.idea/403project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LLE/.idea/LLE.iml" filepath="$PROJECT_DIR$/../LLE/.idea/LLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../loadingfiles/.idea/test.iml" filepath="$PROJECT_DIR$/../loadingfiles/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
